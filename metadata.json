@@ -1,0 +1,6 @@
+{
+  "name": "Lanka Weather",
+  "description": "Real-time weather forecasts, monsoon insights, and official advisories for all 25 districts of Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
